@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="section_name_text">20sp</dimen>
+    <dimen name="title_text">18sp</dimen>
+    <dimen name="details_text">15sp</dimen>
+    <dimen name="list_height">130dp</dimen>
+    <dimen name="web_article_arrow_height">20dp</dimen>
+</resources>

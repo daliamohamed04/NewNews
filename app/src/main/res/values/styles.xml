@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="SectionNameText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">-2dp</item>
+        <item name="android:textSize">@dimen/section_name_text</item>
+        <item name="android:textColor">@color/textColorNewsArticleSectionName</item>
+
+    </style>
+
+
+    <style name="TitleText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">-8dp</item>
+        <item name="android:paddingTop">-8dp</item>
+        <item name="android:textSize">@dimen/title_text</item>
+        <item name="android:textColor">@color/textColorNewsArticleTitle</item>
+
+    </style>
+
+
+    <style name="DetailsText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">-8dp</item>
+        <item name="android:paddingTop">-8dp</item>
+        <item name="android:textSize">@dimen/details_text</item>
+        <item name="android:textColor">@color/textColorNewsArticleDetails</item>
+
+    </style>
+</resources>
